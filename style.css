@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rebeccapurple;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+div{
+    margin-top: 15px;
+}
+.inner-section{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.img-section{
+    display: flex;
+    justify-content: center;
+}
